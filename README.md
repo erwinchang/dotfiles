@@ -11,5 +11,19 @@
 ### 修改相對應該功能
  tmux
 
+### 安裝方式
+
+```
+bash -c "$(wget -qO - https://raw.github.com/erwinchang/dotfiles/master/dotfiles)"
+```
+
+### 相關修改
+
+ ~/.bash.local
+ 定義個人shell設定
+
+ ~/.gitconfig.local
+ 定義個人git設定
+
 
 [1]:https://github.com/alrra/dotfiles
